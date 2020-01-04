@@ -1,0 +1,24 @@
+{
+  "name": "react-native-custom-headers",
+  "version": "1.0.0",
+  "description": "The custom headers for react-native using react-navigation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshitMadhav/react-native-custom-headers.git"
+  },
+  "keywords": [
+    "react-native-custom-headers",
+    "custom-headers",
+    "headers"
+  ],
+  "author": "HarshitMadhav",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/HarshitMadhav/react-native-custom-headers/issues"
+  },
+  "homepage": "https://github.com/HarshitMadhav/react-native-custom-headers#readme"
+}
