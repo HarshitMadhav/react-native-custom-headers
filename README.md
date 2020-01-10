@@ -1,7 +1,7 @@
 # react-native-custom-headers
 
 Custom headers for react-native using react-navigation for managing navigations in react-native apps.
-=======
+
 # REACT-NATIVE-CUSTOM-HEADERS!
 [![Twitter](https://img.shields.io/twitter/url?color=gg&label=react-native-custom-headers&style=plastic&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Freact-native-custom-headers)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fwww.npmjs.com%2Fpackage%2Freact-native-custom-headers)
 
